@@ -1,4 +1,3 @@
-<h1> Hello, Welcome to BHAI'S portal !!! </h1>
-<h2> JAI BHOLE KI </h2>
-<h3> RESULT AJA </h3>
+<h1> Hello, Welcome to devops project !!! </h1>
+<h2> Project deployment using Ansible </h2>
 <h3> TRIGGERING BUILD </h3>
